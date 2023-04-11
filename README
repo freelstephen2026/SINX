@@ -1,0 +1,3 @@
+SINX is an OS which currently is just a boot sector and a bootloader.
+It is planned to have the kernel follow SUS: the Single UNIX Specification.
+Currently this is a fork of NanoByte's OS, which you are free to view here on GitHub.
